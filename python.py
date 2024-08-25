@@ -7,5 +7,4 @@ def add_num(a,b):
 #this is a new feature
 def add_num_plus_number(add_num,number):
     return
-    add_num +add_num
-    
+    add_num  +2
